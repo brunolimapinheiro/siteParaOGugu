@@ -5,7 +5,7 @@
     margin-bottom: 20px;
   }
 
-  .why_section .img-container{
+  .why_section .img-section {
     width: 600px;
   }
 
@@ -98,8 +98,8 @@
 @media (max-width: 420px) {}
 
 @media (max-width: 390px) {
-  .why_section .img-container  img{
-    height: 100px;
+  .why_section .container .row .img-section   img{
+    height: 290px;
     
   }
 }
